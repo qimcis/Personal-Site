@@ -49,13 +49,13 @@ export default function Navbar() {
         <a className="hover:text-gray-500" href="/">home</a>
         <a className="hover:text-gray-500" href="/about">about</a>
         <a className="hover:text-gray-500" href="/art">art</a>
-        <a 
+        {/* <a 
           className="hover:text-gray-500" 
           target="_blank" 
           href="https://drive.google.com/file/d/12WlqVicwMGoYdqDB2YzovPbv699Iwvj8/view?usp=sharing"
         >
           cv
-        </a>
+        </a> */}
       </div>
     </nav>
   );
