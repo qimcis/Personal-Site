@@ -33,14 +33,14 @@ export default function Navbar() {
             <a className="hover:text-gray-500 text-xl font-semibold" href="/art" onClick={toggleMenu}>
               art
             </a>
-            <a 
+            {/* <a 
               className="hover:text-gray-500 text-xl font-semibold" 
               target="_blank" 
               href="https://drive.google.com/file/d/12WlqVicwMGoYdqDB2YzovPbv699Iwvj8/view?usp=sharing"
               onClick={toggleMenu}
             >
               cv
-            </a>
+            </a> */}
           </div>
         </div>
       )}
