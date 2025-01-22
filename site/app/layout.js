@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Chi McIsaac",
-  description: "hey, nice to see you!",
+  description: "Chi is a software engineer with a strong interest for building cool things.",
   icons: {
     icon: '/icon.ico',
   },
