@@ -33,6 +33,9 @@ export default function Navbar() {
             <a className="hover:text-gray-500 text-xl font-semibold" href="/art" onClick={toggleMenu}>
               art
             </a>
+            <a className="hover:text-gray-500 text-xl font-semibold" href="/work" onClick={toggleMenu}>
+              work
+            </a>
             {/* <a 
               className="hover:text-gray-500 text-xl font-semibold" 
               target="_blank" 
@@ -49,6 +52,7 @@ export default function Navbar() {
         <a className="hover:text-gray-500" href="/">home</a>
         <a className="hover:text-gray-500" href="/about">about</a>
         <a className="hover:text-gray-500" href="/art">art</a>
+        <a className="hover:text-gray-500" href="/work">work</a>
         {/* <a 
           className="hover:text-gray-500" 
           target="_blank" 

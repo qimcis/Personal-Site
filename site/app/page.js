@@ -10,10 +10,9 @@ export default function Home() {
       <div className="flex flex-col">
         <div className="items-left justify-left">
           <h1 className="text-black mt-5 text-8xl font-bold">chi mcisaac</h1>
-          <p className="text-black mt-5 text-2xl">1st year cs student at Carleton University</p>
+          <p className="text-black mt-5 text-2xl">cs student at Carleton University</p>
           <div className="text-black mt-5 text-2xl">Looking for SWE internship opportunities <p className="break-words">for Summer/Fall 2025</p></div>
           <p className="text-black mt-5 text-2xl">swe intern @ <a href="https://www.chromaticdata.com/" className="underline hover:text-gray-600" target="_blank">Chromatic Data</a></p>
-          <p className="text-black mt-5 text-2xl">swe intern @ <a href="https://hivenue.ca/en" className="underline hover:text-gray-600" target="_blank">Hivenue</a></p>
           <div className="mt-5 flex items-center gap-4">
             <MailTo label="contact me" mailto="chixie.mcisaac@gmail.com" className="bg-black text-2xl text-white p-2 rounded-md w-fit"/>
             <Link href="https://github.com/qimcis" target="_blank" rel="noopener noreferrer">
