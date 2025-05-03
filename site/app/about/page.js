@@ -8,7 +8,7 @@ export default function About() {
         <p className="text-2xl font-semibold mt-5">In the coming year, I'm looking to</p>
         <ul className="text-2xl mt-5">
             <li>1. Launch <i>Pearl</i></li>
-            <li>2. Start a <a href="https://www.socratica.info/" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">Socratica</a> node at my university</li>
+            <li>2. Grow <a href="https://www.instagram.com/synchronize.now" target="_blank" rel="noopener norefferer" className="underline hover:text-gray-600">Syncronize</a>, Ottawa's <a href="https://www.socratica.info/" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">Socratica</a> node</li>
             <li>3. Trek to Everest Base Camp</li>
             <li>4. Start a newsletter</li>
         </ul>
