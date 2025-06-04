@@ -1,6 +1,7 @@
 import Image from "next/image";
 import MailTo from "./components/mailto";
-import { FaGithub, FaLinkedin, FaXTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaX } from "react-icons/fa6";
 import Link from "next/link";
 
 export default function Home() {
@@ -22,7 +23,7 @@ export default function Home() {
               <FaLinkedin size={32} className="text-black hover:text-gray-500 transition-colors" />
             </Link>
             <Link href="https://x.com/chimcis" target="_blank" rel="noopener noreferrer">
-              <FaXTwitter size={32} className="text-black hover:text-gray-500 transition-colors" />
+              <FaX size={32} className="text-black hover:text-gray-500 transition-colors" />
             </Link>
           </div>
         </div>
