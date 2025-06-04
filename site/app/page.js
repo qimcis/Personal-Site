@@ -1,6 +1,6 @@
 import Image from "next/image";
 import MailTo from "./components/mailto";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaXTwitter } from "react-icons/fa";
 import Link from "next/link";
 
 export default function Home() {
