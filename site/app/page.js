@@ -21,6 +21,9 @@ export default function Home() {
             <Link href="https://linkedin.com/in/chimcisaac" target="_blank" rel="noopener noreferrer">
               <FaLinkedin size={32} className="text-black hover:text-gray-500 transition-colors" />
             </Link>
+            <Link href="https://x.com/chimcis" target="_blank" rel="noopener noreferrer">
+              <FaXTwitter size={32} className="text-black hover:text-gray-500 transition-colors" />
+            </Link>
           </div>
         </div>
       </div>
